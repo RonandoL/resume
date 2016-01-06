@@ -1,0 +1,23 @@
+.main {
+  width: 800px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+.section {
+  background-color: #ccffff;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.education {
+  border: 1px solid red;
+}
+
+.important {
+  font-weight: bold;
+}
